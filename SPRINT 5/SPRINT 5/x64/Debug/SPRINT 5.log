@@ -1,0 +1,10 @@
+﻿  sprint 5.c
+D:\Competition\SPRINT 5\SPRINT 5\sprint 5.c(124,41): warning C4244: '=' : conversion de 'double' en 'unsigned char', perte possible de données
+D:\Competition\SPRINT 5\SPRINT 5\sprint 5.c(126,23): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+D:\Competition\SPRINT 5\SPRINT 5\sprint 5.c(129,40): warning C4244: '=' : conversion de 'double' en 'unsigned char', perte possible de données
+D:\Competition\SPRINT 5\SPRINT 5\sprint 5.c(162,22): warning C4018: '<' : incompatibilité signed/unsigned
+D:\Competition\SPRINT 5\SPRINT 5\sprint 5.c(189,22): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+D:\Competition\SPRINT 5\SPRINT 5\sprint 5.c(235,26): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+D:\Competition\SPRINT 5\SPRINT 5\sprint 5.c(249,21): warning C4018: '<' : incompatibilité signed/unsigned
+D:\Competition\SPRINT 5\SPRINT 5\sprint 5.c(262,21): warning C4018: '<' : incompatibilité signed/unsigned
+  SPRINT 5.vcxproj -> D:\Competition\SPRINT 5\x64\Debug\SPRINT 5.exe
